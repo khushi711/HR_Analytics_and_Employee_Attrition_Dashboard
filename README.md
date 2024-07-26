@@ -12,3 +12,6 @@ Job Role Analysis: Breakdown of attrition by specific job roles including Labora
 Salary Band Insights: Attrition trends based on different salary ranges, aiding in compensation strategy planning.
 Company Tenure: Analysis of employee attrition based on years of service and gender distribution.
 
+
+Learning Source: I developed this dashboard based on instructions from a YouTube tutorial presented by Rishabh Mishra. Many thanks to Rishabh for his exceptional guidance!
+
